@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jashangolden
 - 👀 I’m interested in learning somethingnew
-- 🌱 I’m currently learning digital marketing
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on instagram
 - 📫 How to reach me mail me on jashangolden2023@gmail.com
 
